@@ -1,0 +1,7 @@
+print("Escribe un número")
+entrada1=input()
+numero1=int(entrada1)
+print("Escribe otro número")
+entrada2=input()
+numero2=int(entrada2)
+print("La suma es: ", numero1 + numero2) 
